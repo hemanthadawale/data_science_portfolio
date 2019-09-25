@@ -1,9 +1,11 @@
 # Getting started with Python for data science
-These are few of my Projects which I completed with while entering into Data Science.
+These are few of my projects which I completed with while getting started with Data Science from GreyAtom.
 
-These purely consists of Hands-on-practice on concepts such as:
+These are based on concepts such as:
 1. Basics of Python
 2. Numpy
 3. Pandas
 4. Matplotlib
-and their various techniques.
+5. Statistics
+6. Probability
+   and their various techniques.

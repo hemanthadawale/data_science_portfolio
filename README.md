@@ -1,5 +1,6 @@
-# Getting started with Python for data science
-These are few of my projects which I completed with while getting started with Data Science from GreyAtom.
+# Getting started with data science
+These are few of my projects which I completed with while getting started with Data Science.
+These cover small practice projects from Data-Science Masters Program Certification from GreyAtom.
 
 These are based on concepts such as:
 1. Basics of Python
